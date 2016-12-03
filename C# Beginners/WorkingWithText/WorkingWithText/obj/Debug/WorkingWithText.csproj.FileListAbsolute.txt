@@ -1,0 +1,6 @@
+C:\Users\asiu\Desktop\C# Practice\WorkingWithText\WorkingWithText\bin\Debug\WorkingWithText.exe.config
+C:\Users\asiu\Desktop\C# Practice\WorkingWithText\WorkingWithText\bin\Debug\WorkingWithText.exe
+C:\Users\asiu\Desktop\C# Practice\WorkingWithText\WorkingWithText\bin\Debug\WorkingWithText.pdb
+C:\Users\asiu\Desktop\C# Practice\WorkingWithText\WorkingWithText\obj\Debug\WorkingWithText.csprojResolveAssemblyReference.cache
+C:\Users\asiu\Desktop\C# Practice\WorkingWithText\WorkingWithText\obj\Debug\WorkingWithText.exe
+C:\Users\asiu\Desktop\C# Practice\WorkingWithText\WorkingWithText\obj\Debug\WorkingWithText.pdb

@@ -1,0 +1,6 @@
+C:\Users\asiu\Desktop\C# Practice\C# Intermediate\ClassesInterfacesAndOOP\ClassesInterfacesAndOOP\bin\Debug\ClassesInterfacesAndOOP.exe.config
+C:\Users\asiu\Desktop\C# Practice\C# Intermediate\ClassesInterfacesAndOOP\ClassesInterfacesAndOOP\bin\Debug\ClassesInterfacesAndOOP.exe
+C:\Users\asiu\Desktop\C# Practice\C# Intermediate\ClassesInterfacesAndOOP\ClassesInterfacesAndOOP\bin\Debug\ClassesInterfacesAndOOP.pdb
+C:\Users\asiu\Desktop\C# Practice\C# Intermediate\ClassesInterfacesAndOOP\ClassesInterfacesAndOOP\obj\Debug\ClassesInterfacesAndOOP.csprojResolveAssemblyReference.cache
+C:\Users\asiu\Desktop\C# Practice\C# Intermediate\ClassesInterfacesAndOOP\ClassesInterfacesAndOOP\obj\Debug\ClassesInterfacesAndOOP.exe
+C:\Users\asiu\Desktop\C# Practice\C# Intermediate\ClassesInterfacesAndOOP\ClassesInterfacesAndOOP\obj\Debug\ClassesInterfacesAndOOP.pdb

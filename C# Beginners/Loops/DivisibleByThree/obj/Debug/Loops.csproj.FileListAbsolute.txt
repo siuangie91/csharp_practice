@@ -1,0 +1,8 @@
+C:\Users\asiu\Desktop\C# Practice\DivisibleByThree\DivisibleByThree\bin\Debug\DivisibleByThree.exe.config
+C:\Users\asiu\Desktop\C# Practice\DivisibleByThree\DivisibleByThree\bin\Debug\DivisibleByThree.exe
+C:\Users\asiu\Desktop\C# Practice\DivisibleByThree\DivisibleByThree\bin\Debug\DivisibleByThree.pdb
+C:\Users\asiu\Desktop\C# Practice\DivisibleByThree\DivisibleByThree\obj\Debug\DivisibleByThree.exe
+C:\Users\asiu\Desktop\C# Practice\DivisibleByThree\DivisibleByThree\obj\Debug\DivisibleByThree.pdb
+C:\Users\asiu\Desktop\C# Practice\C# Beginners\Loops\DivisibleByThree\bin\Debug\DivisibleByThree.exe.config
+C:\Users\asiu\Desktop\C# Practice\C# Beginners\Loops\DivisibleByThree\obj\Debug\DivisibleByThree.exe
+C:\Users\asiu\Desktop\C# Practice\C# Beginners\Loops\DivisibleByThree\obj\Debug\DivisibleByThree.pdb

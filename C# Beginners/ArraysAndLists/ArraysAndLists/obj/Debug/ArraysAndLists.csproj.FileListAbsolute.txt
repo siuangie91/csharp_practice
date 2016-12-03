@@ -1,0 +1,6 @@
+C:\Users\asiu\Desktop\C# Practice\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe.config
+C:\Users\asiu\Desktop\C# Practice\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe
+C:\Users\asiu\Desktop\C# Practice\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.pdb
+C:\Users\asiu\Desktop\C# Practice\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csprojResolveAssemblyReference.cache
+C:\Users\asiu\Desktop\C# Practice\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.exe
+C:\Users\asiu\Desktop\C# Practice\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.pdb
