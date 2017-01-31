@@ -4,3 +4,6 @@ C:\Users\asiu\Desktop\C# Practice\WorkingWithFiles\WorkingWithFiles\bin\Debug\Wo
 C:\Users\asiu\Desktop\C# Practice\WorkingWithFiles\WorkingWithFiles\bin\Debug\WorkingWithFiles.pdb
 C:\Users\asiu\Desktop\C# Practice\WorkingWithFiles\WorkingWithFiles\obj\Debug\WorkingWithFiles.exe
 C:\Users\asiu\Desktop\C# Practice\WorkingWithFiles\WorkingWithFiles\obj\Debug\WorkingWithFiles.pdb
+C:\Users\asiu\Desktop\C# Practice\C# Beginners\WorkingWithFiles\WorkingWithFiles\bin\Debug\WorkingWithFiles.exe.config
+C:\Users\asiu\Desktop\C# Practice\C# Beginners\WorkingWithFiles\WorkingWithFiles\obj\Debug\WorkingWithFiles.exe
+C:\Users\asiu\Desktop\C# Practice\C# Beginners\WorkingWithFiles\WorkingWithFiles\obj\Debug\WorkingWithFiles.pdb
