@@ -13,6 +13,7 @@ namespace Delegates
         //pass in the delegate that will handle the photo object
         public void Process(string path, PhotoFilterHandler photoFilterHandler)
         {
+
             var photo = Photo.Load(path);
 
             photoFilterHandler(photo);
