@@ -13,14 +13,12 @@ namespace ExceptionHandling
         {
             try
             {
-                using (var streamReader = new StreamReader(@"C:\file.zip"))
-                {
-                    var content = streamReader.ReadToEnd();
-                }
+                var api = new YouTubeApi();
+                var videos = api.GetVideos("mosh");
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Sorry, an error occurred.");
+                Console.WriteLine(ex.Message);
             }
             
         }
