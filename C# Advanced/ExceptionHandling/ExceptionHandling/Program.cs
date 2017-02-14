@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,20 +11,19 @@ namespace ExceptionHandling
     {
         static void Main(string[] args)
         {
+            var streamReader = new StreamReader(@"C:\file.zip");
             try
             {
-                var calculator = new Calculator();
-                var result = calculator.Divide(5, 0);
-            }
-            catch (DivideByZeroException ex)
-            {
-                Console.WriteLine(ex.Message);
-                Console.WriteLine("Cannot divide by zero!");
+                var content = streamReader.ReadToEnd();
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex.Message);
-                Console.WriteLine("Sorry, error occurred");
+                Console.WriteLine("Sorry, an error occurred.");
+            }
+            //finally blocks execute no matter what
+            finally // make sure that Stream is ALWAYS closed
+            {
+                streamReader.Dispose();
             }
         }
     }
