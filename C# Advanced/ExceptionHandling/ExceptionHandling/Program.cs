@@ -11,9 +11,10 @@ namespace ExceptionHandling
     {
         static void Main(string[] args)
         {
-            var streamReader = new StreamReader(@"C:\file.zip");
+            StreamReader streamReader = null; //init streamReader
             try
             {
+                streamReader = new StreamReader(@"C:\file.zip");
                 var content = streamReader.ReadToEnd();
             }
             catch (Exception ex)
@@ -23,7 +24,8 @@ namespace ExceptionHandling
             //finally blocks execute no matter what
             finally // make sure that Stream is ALWAYS closed
             {
-                streamReader.Dispose();
+                if(streamReader != null)
+                    streamReader.Dispose();
             }
         }
     }
